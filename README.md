@@ -2,7 +2,7 @@
 
 Welcome to the **Biomedical Literature Helper with BioGPT**! This Streamlit application leverages the power of the BioGPT language model to assist researchers, clinicians, and enthusiasts in generating and mining biomedical texts efficiently. Whether you're drafting research papers, summarizing complex biomedical information, or exploring new hypotheses, this tool is here to streamline your workflow.
 
-![BioGPT Banner](https://your-image-url.com/banner.png) <!-- Replace with an actual image URL if available -->
+![BioGPT Banner](img/BioGPT in PubMedQA.png) <!-- Replace with an actual image URL if available -->
 
 ## 🌟 Features
 
@@ -19,7 +19,7 @@ Follow these steps to set up the application on your local machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/biogpt-biomedical-helper.git
+git clone https://github.com/alphatechlogics/BiomedicalLiteratureHelperWithBioGPT.git
 cd biogpt-biomedical-helper
 ```
 

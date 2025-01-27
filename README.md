@@ -2,7 +2,7 @@
 
 Welcome to the **Biomedical Literature Helper with BioGPT**! This Streamlit application leverages the power of the BioGPT language model to assist researchers, clinicians, and enthusiasts in generating and mining biomedical texts efficiently. Whether you're drafting research papers, summarizing complex biomedical information, or exploring new hypotheses, this tool is here to streamline your workflow.
 
-![BioGPT Banner](img/BioGPT in PubMedQA.png) <!-- Replace with an actual image URL if available -->
+![Upload Image](img/BioGPT.png)
 
 ## 🌟 Features
 

@@ -75,7 +75,6 @@ The app should automatically open in your default web browser. If not, navigate 
 
 - **Minimum Output Length**: Set the minimum number of tokens for the generated text.
 - **Maximum Output Length**: Define the maximum number of tokens for the output.
-- **Number of Sequences**: Specify how many different text sequences you want BioGPT to generate.
 
 3. **Input Text:**
 
@@ -88,10 +87,6 @@ Diabetes is
 4. **Generate Text:**
 
 - Click on the **Generate Tex**t button. The app will process your input and display the generated biomedical text(s) along with the time taken for generation.
-
-5. **Reset Inputs:**
-
-- Use the **Reset** button to clear your inputs and start a new generation session.
 
 ### 📚 Exploring Examples
 
@@ -107,10 +102,3 @@ The application relies on the following key packages:
 - Sacremoses: Required by BioGptTokenizer for text processing.
 - Pandas: For handling data structures and displaying examples.
   Ensure all dependencies are installed as per the Installation section.
-
-## 🧩 File Structure
-
-- `app.py`: Main Streamlit application script.
-- `utils.py`: Contains utility functions and predefined variables like available models and examples.
-- `requirements.txt`: Lists all Python dependencies (ensure this file is present).
-- `README.md`: Project documentation (this file).

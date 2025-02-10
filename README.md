@@ -1,7 +1,7 @@
 # 🧬 Biomedical Literature Helper with BioGPT 🧬
 
 Welcome to the **Biomedical Literature Helper with BioGPT**! This Streamlit application leverages the power of the BioGPT language model to assist researchers, clinicians, and enthusiasts in generating and mining biomedical texts efficiently. Whether you're drafting research papers, summarizing complex biomedical information, or exploring new hypotheses, this tool is here to streamline your workflow.
-
+https://huggingface.co/microsoft/biogpt
 ## 🌟 Features
 
 - **Advanced Text Generation:** Utilize BioGPT to generate coherent and contextually relevant biomedical text based on your input prompts.

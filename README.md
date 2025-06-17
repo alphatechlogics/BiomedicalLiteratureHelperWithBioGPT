@@ -2,9 +2,13 @@
 
 Welcome to the **Biomedical Literature Helper with BioGPT**! This Streamlit application leverages the power of the BioGPT language model to assist researchers, clinicians, and enthusiasts in generating and mining biomedical texts efficiently. Whether you're drafting research papers, summarizing complex biomedical information, or exploring new hypotheses, this tool is here to streamline your workflow.
 
+![](https://raw.github.com/alphatechlogics/BiomedicalLiteratureHelperWithBioGPT/f2d43adc182aa0072d7d754b8b0c6df66f0f6d00/Screenshot%202025-06-17%20232409.png)
+
 ## 🌟 Hugging Face Models:
 https://huggingface.co/microsoft/biogpt
+
 https://huggingface.co/microsoft/BioGPT-Large
+
 https://huggingface.co/microsoft/BioGPT-Large-PubMedQA
 ## 🌟 Features
 
